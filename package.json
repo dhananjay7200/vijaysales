@@ -1,0 +1,22 @@
+{
+  "name": "vijaysales",
+  "version": "1.0.0",
+  "description": "this is vijaysalse node js used for docker image creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhananjay7200/vijaysales.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhananjay7200/vijaysales/issues"
+  },
+  "homepage": "https://github.com/dhananjay7200/vijaysales#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
